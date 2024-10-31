@@ -1,0 +1,13 @@
+Grapes,14
+Pineapples,89
+Mangoes,52
+Strawberries,100
+Blueberries,31
+Peaches,150
+Cherries,11
+Plums,100
+Watermelons,36
+Lemons,210
+Kiwis,59
+Papayas,221
+Lime,100
